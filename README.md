@@ -4,7 +4,8 @@ Full-stack developer | Laravel & React enthusiast 🚀
 ![GitHub followers](https://img.shields.io/github/followers/rachid-J?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/rachid-J?style=social)
 
-![Rachid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachid-J&show_icons=true&theme=radical)
+![Rachid's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rachid-J&show_icons=true&theme=radical)
+
 
 ### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
